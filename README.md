@@ -1,5 +1,8 @@
 # Projeto: Codificador e Decodificador de Texto
 
+## Link para Acessar
+https://decodificador-texto-ashy.vercel.app/
+
 ## Sobre
 O Challenge Decodificador de Texto foi proposto na trilha "Iniciante em Programação T7 - ONE (Oracle Next Education)" desenvolvido pela Alura em parceria com a Oracle. 
 
@@ -63,7 +66,7 @@ Desenvolvido por: Fernanda Ribeiro
 ---
 
 ## Como Usar
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1. Clone este repositório: https://github.com/f3f3h/decodificador-texto
 2. Abra o arquivo `index.html` no seu navegador.
 3. Insira o texto no campo apropriado.
 4. Clique em "Criptografar" para ver o texto criptografado ou "Descriptografar" para ver o texto original.
